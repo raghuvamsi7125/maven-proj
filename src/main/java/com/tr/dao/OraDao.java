@@ -13,4 +13,6 @@ public int Insert(int id,String name) {
 	int c=jt.update(Q,id,name);
 	return c;
    }
+
+System.out.println("hii");
 }
